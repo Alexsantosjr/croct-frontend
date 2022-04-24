@@ -1,16 +1,3 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alexsantosjr/croct-frontend?color=%2304D361">
-
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alexsantosjr/croct-frontend">
-  </a>
-
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Alexsantosjr/croct-frontend/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Alexsantosjr/front-end-corebiz?style=social">
-  </a>
-
-</p>
 <h1 align="center">
     <img alt="Front-End Developer " title="Front-End Developer " src="https://camo.githubusercontent.com/4f7b01620e4e4b8a6b57b908b660dd79aacbbe21a22387a87017eb0679216b32/68747470733a2f2f63646e2e63726f63742e696f2f6272616e642f6c6f676f2f7265706f2d69636f6e2d677265656e2e737667" width="200px" />
 </h1>
@@ -18,6 +5,14 @@
 <h4 align="center">
 	👨‍💻 Avatar Uploader Front-End Challenge 👨‍💻
 </h4>
+
+<div style="display: flex; justify-content: center; gap: 12px; margin: 12px 0;">
+    <img alt="Build" src="https://img.shields.io/badge/build-passing-green" />
+    <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-green" />
+    <img alt="Maintainability" src="https://img.shields.io/badge/maintainability-100-green" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alexsantosjr/croct-frontend?color=%2304D361">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</div>
 
 ## 🚀 Como executar o projeto
 
