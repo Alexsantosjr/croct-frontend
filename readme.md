@@ -6,7 +6,7 @@
 	👨‍💻 Avatar Uploader Front-End Challenge 👨‍💻
 </h4>
 
-<div style="display: flex; justify-content: center; gap: 12px; margin: 12px 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 12px; margin: 12px 0;">
     <img alt="Build" src="https://img.shields.io/badge/build-passing-green" />
     <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-green" />
     <img alt="Maintainability" src="https://img.shields.io/badge/maintainability-100-green" />
